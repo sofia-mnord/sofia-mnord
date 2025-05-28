@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sofia-mnord
+- 👋 Hi, I’m Sofia
 - 🌱 I’m currently studying web development at Linnaeus University in Sweden.
 - 😄 Pronouns: she/her
 
